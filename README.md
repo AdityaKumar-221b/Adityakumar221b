@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Upendra Singh Chauhan</h1>
-<h3 align="center">A passionate Full Stack developer from India. I am experienced in the sport of Competitive Programming with 3+ year of experience in Data Structures and Algorithms and actively participating in Online Programming Competitions and I am 1800+ rated in Codechef and Leetcode</h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<h3 align="center">I am a Soical Workwer I am experienced in the sport of Competitive Programming with 3+ year of experience in Data Structures and Algorithms and actively participating in Online Programming Competitions and I am 1800+ rated in Codechef and Leetcode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra2001&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2001" /> </p>
 
